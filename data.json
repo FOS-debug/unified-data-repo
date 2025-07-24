@@ -1,29 +1,35 @@
 [
   {
-    "slt": 1000,
+    "slt": 000001
+    "TID": 110000,
     "FirstName": "Test",
     "LastName": "Johnson",
     "Debt": 100,
     "ContactNumber": "(123) 456-7891",
     "email": "testjohnson@email.com",
+    "company-owed": "Testcompany",
     "date": "1/1/2020"
   },
   {
-    "slt": 2000,
+    "slt": 000002,
+    "TID": 120000,
     "FirstName": "John",
     "LastName": "Doe",
     "Debt": 200,
     "ContactNumber": "(987) 654-3210",
     "email": "johndoe@email.com",
+    "company-owed": "Testcompany",
     "date": "2/1/2021"
   },
   {
-    "slt": 3000,
+    "slt": 000003,
+    "TID": 130000,
     "FirstName": "Alice",
     "LastName": "Smith",
     "Debt": 300,
     "ContactNumber": "(555) 123-4567",
     "email": "alicesmith@email.com",
+    "company-owed": "Testcompany",
     "date": "3/1/2022"
   }
 ]
