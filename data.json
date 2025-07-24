@@ -99,6 +99,83 @@
     "date": "1/5/2022"
   },
   {
+    "slt": "212839",
+    "TID": 130011,
+    "FirstName": "Emery",
+    "LastName": "Lightfoot",
+    "Debt": 287.23,
+    "ContactNumber": "800-553-2447",
+    "email": "help@cisco.com",
+    "company-owed": "Cisco",
+    "date": "1/5/2025"
+  },
+  {
+    "slt": "832212",
+    "TID": 130011,
+    "FirstName": "Emery",
+    "LastName": "Lightfoot",
+    "Debt": 28.99,
+    "ContactNumber": "NONE GIVEN",
+    "email": "NONE GIVEN",
+    "company-owed": "Microsoft 365 Enterprise",
+    "date": "3/25/2025"
+  },
+  {
+    "slt": "934196",
+    "TID": 130011,
+    "FirstName": "Emery",
+    "LastName": "Lightfoot",
+    "Debt": 32.64
+    "ContactNumber": "NONE GIVEN",
+    "email": "NONE GIVEN",
+    "company-owed": "Amazon Web Services",
+    "date": "1/5/2025"
+  },
+  {
+    "slt": "832212",
+    "TID": 130011,
+    "FirstName": "Emery",
+    "LastName": "Lightfoot",
+    "Debt": 25.00,
+    "ContactNumber": "NONE GIVEN",
+    "email": "NONE GIVEN",
+    "company-owed": "IAET Bank Loan",
+    "date": "5/20/2025"
+  },
+  {
+    "slt": "238452",
+    "TID": 130011,
+    "FirstName": "Emery",
+    "LastName": "Lightfoot",
+    "Debt": 60.00,
+    "ContactNumber": "NONE GIVEN",
+    "email": "NONE GIVEN",
+    "company-owed": "IAET Bank Loan",
+    "date": "5/20/2025"
+  },
+  {
+    "slt": "238452",
+    "TID": 130011,
+    "FirstName": "Emery",
+    "LastName": "Lightfoot",
+    "Debt": 100.00,
+    "ContactNumber": "NONE GIVEN",
+    "email": "NONE GIVEN",
+    "company-owed": "IAET Bank Loan",
+    "date": "5/21/2025"
+  },
+  {
+    "slt": "238452",
+    "TID": 130011,
+    "FirstName": "Emery",
+    "LastName": "Lightfoot",
+    "Debt": 300.00,
+    "ContactNumber": "NONE GIVEN",
+    "email": "NONE GIVEN",
+    "company-owed": "IAET Bank Loan",
+    "date": "5/23/2025"
+  },
+  {
     "slt": "958274",
     "TID": 130004,
     "FirstName": "Marigold",
